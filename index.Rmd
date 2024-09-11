@@ -4,7 +4,7 @@ site: bookdown::bookdown_site
 colorlinks: TRUE
 author: "peacecop kalmer:"
 description: "kitsa matemaatika esimese kursuse õpe"
-lang: en
+lang: et
 include-before:
     - \input{title-page.tex}
 title: "`r if (knitr::is_latex_output()) { '' } else { 'kitsa matemaatika<br/>esimese kursuse<br/> õpe' }`"

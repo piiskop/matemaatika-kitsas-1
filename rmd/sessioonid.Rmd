@@ -1,0 +1,93 @@
+[]{#sessions}
+
+# I kursuse sisu
+
+## Arvuhulgad. Avaldised. Võrrandid
+
+### Õpitulemused
+
+\multicolsbegin
+
+Kursuse lõpus õpilane:
+
+1. leiab hulkade ühendi, ühisosa ja antud hulga osahulga;
+2. eristab arvuhulki N; Z; Q; I ja R, selgitab nende kuuluvusseoseid;
+3. märgib arvteljel reaalarvude piirkondi;
+4. eristab võrdust, samasust, võrrandit ja võrratust;
+5. lahendab ühe tundmatuga lineaar- ja ruutvõrrandeid ning -võrratusi, samuti lihtsamaid
+murdvõrrandeid (maksimaalselt 2 murdu) ning ühe tundmatuga lineaarvõrratuste süsteeme;
+6. sooritab tehteid astmete ja juurtega (teine kuni neljas juur), teisendades viimased
+ratsionaalarvulise astendajaga astmeteks;
+7. teisendab lihtsamaid (kaks tehet ja sulud) ratsionaal- ja irratsionaalavaldisi;
+8. lahendab lihtsamaid reaalelulise kontekstiga probleeme võrrandite ja võrrandisüsteemide
+abil.[@gmnaasiumi].
+
+\multicolsend
+
+## Kalender
+
+### 2024-9-10
+
+Kaardistasime keeled histogrammi. Tutvustasin hulgateooriat.
+
+Osalesid... paberil kirjas 13 nime.
+
+### 2024-9-10
+
+Tutvustasin arvude hulki ja harjutasime arvude liigitamist.
+
+### 2024-9-11
+
+Kaardistasime keeled histogrammi. Tutvustasin hulgateooriat.
+
+Osalesid Artemi Dudkin, Marija Runjantseva, Uljana Soonvald, Andrea Malinina, Sofja Danilova, vanja fabrichnikov, jegor barinov, Ilja Dudkin, Alisa Абдукаримова, Evelina Bržezitskaja, DANIIL MATVEER, Edgar Bartirov, daniil baskirov, Georgiy Sidorov, Sasha Sumakok, jegor krištal, albert baikov, Valerija Brijankijeva, Emilia Danilova, Lilia Drekhova, Aleksei Baguev, МАКСИМ UJOVENKO, VERONIKA ŠUMILINA.
+
+### 2024-9-11
+
+Tutvustasin arvude hulki.
+
+### 2024-9-11
+
+Harjutasime arvude liigitamist.
+
+10A hinded esimese õpiväljundi saavutatuse kohta:
+
+VERONIKA ŠUMILINA: 3,
+МАКСИМ UJOVENKO: 2,
+Aleksei Baguev: 2,
+Lilia Drekhova: 2,
+Emilia Danilova: 2,
+Valerija Brjakkijeva: 3,
+albert baikov: 4
+
+### 2024-9-11
+
+Kaardistasime keeled histogrammi. Tutvustasin hulgateooriat.
+
+Osalesid vlada Massalova, Alisa Mazanova, ivan Stulov, Margarita Fjodorova, Lera Fedorova, danil kaskirov, Jegor Jelutimov, Aleksndr Marev, arina orlova, Артем Dmitriiev, Viktoriia Barabanova, Veera Kirillova, Jana Katajeva, Skantseva Sofia, Veronika Aleksandrova, Darina Volkova, sonja seliverstova, Svetlana Antonen, Anna Ivanova, Nastja Demntjeva, Alesja Jakovleva, Kristina golubeva, Anna Simonova.
+
+Esimese õpitulemuse 10F hinded:
+
+Anna Simonova: 5,
+Kristina golubeva: 3,
+Alesja Jakovleva: 3,
+Nastja Demntjeva: 2,
+Anna Ivanova: 2,
+Svetlana Antonen: 2,
+sonja seliverstova: 2,
+Darina Volkova: 2,
+Veronika Aleksandrova: 2,
+Skantseva Sofia: 3,
+Jana Katajeva: 2,
+Veera Kirillova: 2,
+Viktoriia Barabanova: 2,
+Артем Dmitriiev: 2,
+arina orlova: 2,
+Aleksndr Marev: 2,
+Jegor Jelutimov: 3,
+danil kaskirov: 3,
+Lera Fedorova: 3,
+Margarita Fjodorova: 2,
+ivan Stulov: 4,
+Alisa Mazanova: 3,
+vlada Massalova: 2.
