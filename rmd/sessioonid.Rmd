@@ -58,7 +58,19 @@ Aleksei Baguev: 2,
 Lilia Drekhova: 2,
 Emilia Danilova: 2,
 Valerija Brjakkijeva: 3,
-albert baikov: 4
+albert baikov: 4,
+Artemi Dudkin: 2,
+jegor krištal: 3,
+Sasha Sumakok: 3,
+Georgiy Sidorov: 3,
+daniil baskirov: 4,
+Edgar Bartirov: 4,
+DANIIL MATVEER: 4,
+Evelina Bržezitskaja: 5,
+Alisa Абдукаримова: 1,
+Ilja Dudkin: 5,
+jegor barinov: 4,
+vanja fabrichnikov: 
 
 ### 2024-9-11
 
@@ -91,3 +103,13 @@ Margarita Fjodorova: 2,
 ivan Stulov: 4,
 Alisa Mazanova: 3,
 vlada Massalova: 2.
+
+### 2024-9-12
+
+Lahendasime hulkade ühendi ja ühisosa ülesandeid. Näitasin, mida tähendab elemendi kuuluvus ning harjutasime seda. Näitasin, mida tähendavad osahulgad ja hulkade vahe ning harjutasime ka nende kasutamist.
+
+Osalesid Anna Simonova, ...paberitel
+
+### 2024-9-12
+
+Käsitlesime naturaal- ja täisarvude hulki.
