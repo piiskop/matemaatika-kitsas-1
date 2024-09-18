@@ -70,7 +70,11 @@ Evelina Bržezitskaja: 5,
 Alisa Абдукаримова: 1,
 Ilja Dudkin: 5,
 jegor barinov: 4,
-vanja fabrichnikov: 
+vanja fabrichnikov: 5,
+Sofja Danilova: 2,
+Andrea Malinina: 4,
+Uljana Soonvald: 4,
+Marija Runjantseva: 2.
 
 ### 2024-9-11
 
@@ -113,3 +117,57 @@ Osalesid Anna Simonova, ...paberitel
 ### 2024-9-12
 
 Käsitlesime naturaal- ja täisarvude hulki.
+
+Hinded õpiväljundi 1 kohta:
+Anna Luomova: 3,
+Andrei Kolotkov: 3,
+Daniil Koskirov: 2,
+Jana Katajeva: 5,
+Lera Fedorova: 4,
+Kristina Golubeva: 3,
+Anjuta Vorobjova: 5,
+Дорин Савельев: 5,
+Ivan Mištšenko: 5,
+Vlada: 2,
+Alisa: 1,
+Sirotina Nelli: 3,
+sonja pseliverstova: 4,
+Kristina Jurma: 4,
+Irina Kosatševa: 3,
+ALina Chepkasova: 2,
+Sveta: 2,
+Margarita: 2,
+Dorin: 1.
+
+### 2024-9-12
+
+Harjutasime hulkade ühisosa ja ühendi kirjutamist ja visandamist. Tutvustasin elemendi kuuluvust hulka, samuti osahulga sümbolite kasutamist ning tegime nende kohta harjutusi. Lõpuks testisin õpilasi esimese õpiväljundi saavutatuse suhtes.
+
+Esimese õpitulemuse 10B rühma õpilaste saavutamine:
+
+Jaroslav Andrejev: 3,
+Nickita Serdiuk: 3,
+Artjom Saharov: 2,
+Maksim Tolmatsjov: 4,
+Daniil Petrauskas: 3,
+Ruslan zverev: 3,
+Elizaveta Kapitonova: 2,
+Ksenija Ignatjeva: 3,
+Erik Kapinski: 3,
+virko Boitrov: 3.
+
+### 2024-9-17
+
+Lahendasime tahvlile eelmise korra testi ülesandeid.
+
+### 2024-9-17
+
+Tegin lehe https://www.math.cmu.edu/~bkell/21110-2010s/sets.html#:~:text=The%20objects%20in%20a%20set,%2C%20variables%2C%20or%20geometric%20points. abil uue ülevaate hulgateooriast jõudes hulkade erinevuseni. Testisin õpilaste teadmisi-oskusi esimese kahe õpiväljundi osas.
+
+Elizaveta Kapitonova oli ka kohal.
+
+Koju: Veelmaa kogumikust 2.
+
+### 2024-9-18
+
+Harjutasime nimede põhjal hulkade ülesande lahendamist: ühend, ühisosa, Venni diagrammid, kuuluvus, osahulk. Tuletasin kompaktselt meelde, mis on ühend ja ühisosa.
