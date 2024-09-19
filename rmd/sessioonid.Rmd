@@ -171,3 +171,34 @@ Koju: Veelmaa kogumikust 2.
 ### 2024-9-18
 
 Harjutasime nimede põhjal hulkade ülesande lahendamist: ühend, ühisosa, Venni diagrammid, kuuluvus, osahulk. Tuletasin kompaktselt meelde, mis on ühend ja ühisosa.
+
+### 2024-9-18
+
+Tuletasin kompaktselt meelde osahulga mõiste. Näitasin allikast https://www.math.cmu.edu/~bkell/21110-2010s/sets.html kuni kardinaalarvuni.
+
+### 2024-9-18
+
+Testisime õpilaste teadmisi-oskusi esimese kahe õpiväljundi suhtes:
+ERik: 1: 2, 2: 4,
+JaRoslav: 1: 3, 2: 4,
+Nick Serdiuk: 1: 1, 2: 3,
+Milana Domožakova: 1: 2, 2: 4,
+MakSiM Tolmatsjov: 1: 1, 2: 4,
+Daniil: 1:1, 2: 3,
+ViRKO.: 1: 1, 2: 4.
+
+### 2024-9-18
+
+Harjutasime eelmise korra testi ülesannete lahendmist: nimede ühisosa, ühend, elemendi kuuluvus, Venni diagrammid. Tegime uue testi: arvu kuuluvus, seosed arvuhulkade vahel tekstina ja diagrammidena, arvu kuuluvus nime tähtede hulka, seega kaks esimest õpiväljundit:
+
+Jegor Jelvkimov: 1: 2, 2: 3,
+Morocov Aleksandra: 1: 2, 2: 3,
+Sirotina Nelli: 1: 3, 2: 3,
+Drlova Arina: 1: 2, 2:3,
+Alisa: 1: 3, 2:2,
+vlada: 1: 3, 2:2,
+Darin: 1: 2, 2: 3,
+MARGiT: 1: 5, 2: 5,
+Svetlana Antonen: 1: 2, 2: 3,
+Anna Simanova: 1:1, 2:2,
+Lera Fedorova: 1: 1, 2: 2.
