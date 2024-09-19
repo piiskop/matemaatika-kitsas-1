@@ -202,3 +202,13 @@ MARGiT: 1: 5, 2: 5,
 Svetlana Antonen: 1: 2, 2: 3,
 Anna Simanova: 1:1, 2:2,
 Lera Fedorova: 1: 1, 2: 2.
+
+### 2024-9-19
+
+Lahendasime läbi viimase testi ülesandeid. Tegin kompaktse ülevaate hulgateooria osadest nagu ühend, ühisosa ja alamhulk.
+
+### 2024-9-19
+
+Tegin kompaktse ülevaate arvuhulkadest. Tutvustasin ükshaaval hulgateooria osi ja jõudsime allika https://www.math.cmu.edu/~bkell/21110-2010s/sets.html abil hulkadeni hulkades.
+
+Testisime õpilaste teadmisi-oskusi kahe esimese õpiväljundi osas:

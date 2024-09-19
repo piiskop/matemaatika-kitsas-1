@@ -228,3 +228,5 @@ render_color <- function(color, text) {
 \lstlistoflistings
 
 # Sissejuhatus {-}
+
+Naiselikud meesõpilased.
