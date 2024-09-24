@@ -212,3 +212,34 @@ Lahendasime läbi viimase testi ülesandeid. Tegin kompaktse ülevaate hulgateoo
 Tegin kompaktse ülevaate arvuhulkadest. Tutvustasin ükshaaval hulgateooria osi ja jõudsime allika https://www.math.cmu.edu/~bkell/21110-2010s/sets.html abil hulkadeni hulkades.
 
 Testisime õpilaste teadmisi-oskusi kahe esimese õpiväljundi osas:
+Aptem Dmitpiiev: 1: 2, 2: 2,
+Margarita Fjodorova: 1: 3, 2: 2,
+Ivan Stulov: 1: 2, 2: 2,
+Sirotina Nelli: 1: 1, 2: 1,
+Veera Kirillova: 1: 2, 2: 2,
+Svetlana Antonen: 1: 1, 2: 1,
+Daniil Koskirov: 1: 2, 2: 1,
+Alesja Jakovleva: 1: 1, 2: 1,
+Sonja Seliverstova: 1: 2, 2: 2,
+Arina: 1: 1, 2: 1,
+Jana Katajeva: 1: 1, 2: 1,
+Kristina Golubeva: 1: 2, 2: 2,
+Anna Simanova: 1: 2, 2: 2,
+Nastja: 1: 1, 2: 1,
+Darin: 1: 2, 2: 1,
+Andrei KoLOTKOV: 1: 1, 2: 1,
+Dorin: 1: 1, 1: 1
+
+### 2024-9-19
+
+Selgitasin hindamissüsteemi.
+
+### 2024-9-24
+
+Näitasin, kuidas viimase testi ülesandeid lahendada ja õpilane lahendas ka. Muu õpilane proovis uuesti kõik läbi teiste sisenditega ja tegi Venni diagrammid ka uuesti.
+
+### 2024-9-24
+
+Selgitasin, kuidas sulge kasutada määramaks tehete järjekorda. Tegime uue testi:
+
+Esimese kahe õpiväljundi eelmise korra testi ülesanded lahendasin õpilastele ühe variandina. Õpilane minu abiga tegi seda ka. Seejärel andsin neile järgmise testi sooritada, aga seekord koju, nii et selle järgi saan teada, kes kohal oli.
