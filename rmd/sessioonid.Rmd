@@ -162,7 +162,15 @@ Lahendasime tahvlile eelmise korra testi ülesandeid.
 
 ### 2024-9-17
 
-Tegin lehe https://www.math.cmu.edu/~bkell/21110-2010s/sets.html#:~:text=The%20objects%20in%20a%20set,%2C%20variables%2C%20or%20geometric%20points. abil uue ülevaate hulgateooriast jõudes hulkade erinevuseni. Testisin õpilaste teadmisi-oskusi esimese kahe õpiväljundi osas.
+Tegin lehe https://www.math.cmu.edu/~bkell/21110-2010s/sets.html#:~:text=The%20objects%20in%20a%20set,%2C%20variables%2C%20or%20geometric%20points. abil uue ülevaate hulgateooriast jõudes hulkade erinevuseni. Testisin õpilaste teadmisi-oskusi esimese kahe õpiväljundi osas:
+ERik: 1: 2, 2: 4,
+JaRoslav: 1: 3, 2: 4,
+Nick Serdiuk: 1: 1, 2: 3,
+Milana Domožakova: 1: 2, 2: 4,
+MakSiM Tolmatsjov: 1: 1, 2: 4,
+Daniil: 1:1, 2: 3,
+ViRKO.: 1: 1, 2: 4.
+
 
 Elizaveta Kapitonova oli ka kohal.
 
@@ -179,13 +187,30 @@ Tuletasin kompaktselt meelde osahulga mõiste. Näitasin allikast https://www.ma
 ### 2024-9-18
 
 Testisime õpilaste teadmisi-oskusi esimese kahe õpiväljundi suhtes:
-ERik: 1: 2, 2: 4,
-JaRoslav: 1: 3, 2: 4,
-Nick Serdiuk: 1: 1, 2: 3,
-Milana Domožakova: 1: 2, 2: 4,
-MakSiM Tolmatsjov: 1: 1, 2: 4,
-Daniil: 1:1, 2: 3,
-ViRKO.: 1: 1, 2: 4.
+Marija Rumjantseva: 1: 1, 2: 1,
+Artemi Dudkin: 1: 1, 2: 1,
+DANiiL MATVeeV: 1: 2, 2: 2,
+Edgar Bantirov: 1: 2, 2: 2,
+Sumarok Sasha: 1: 2, 2: 2,
+Ilja Dudkin: 1: 2, 2: 2,
+Valerija Brjakkijeva: 1: 2, 2: 2,
+Lilia Drekohva: 1: 2, 2: 2,
+ALiSA: 1: 2, 2: 2,
+Emilia: 1: 2, 2: 2,
+Anna Cherenlova: 1: 2, 2: 2,
+Albert Baikov: 1: 2, 2: 2,
+Aleksei Bagaev: 1: 2, 2: 2,
+udovenko максим: 1: 2, 2: 3,
+Ivan Fabrichnikov: 1: 1, 2: 2,
+PAVel Plesnev: 1: 1, 2: 2,
+Jergor Krištal: 1: 2, 2: 2,
+Jegor Burnov: 1: 3, 2: 3,
+Danlil Baskirov: 1: 2, 2: 4,
+Alina Võssotskaja: 1: 3, 2: 2,
+Sofja: 1: 3, 2: 3,
+Andrea: 1: 2, 2: 2,
+Liliana: 1: 2, 2: 2,
+Marja Jurna: 1: 2, 2: 2.
 
 ### 2024-9-18
 
@@ -228,11 +253,15 @@ Anna Simanova: 1: 2, 2: 2,
 Nastja: 1: 1, 2: 1,
 Darin: 1: 2, 2: 1,
 Andrei KoLOTKOV: 1: 1, 2: 1,
-Dorin: 1: 1, 1: 1
+Dorin: 1: 1, 1: 1,
+Jana Jürna: 1: 1, 2: 1,
+Kristina Jurna: 1: 1, 2: 1,
+Alisa: 1: 1, 2: 1,
+Vlada Massalova: 1: 1, 2: 1.
 
 ### 2024-9-19
 
-Selgitasin hindamissüsteemi.
+Selgitasin hindamissüsteemi. Jätsin koju lahendada testülesanded:
 
 ### 2024-9-24
 
