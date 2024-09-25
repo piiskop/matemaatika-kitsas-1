@@ -276,3 +276,11 @@ Esimese kahe õpiväljundi eelmise korra testi ülesanded lahendasin õpilastele
 ### 2024-9-25
 
 Näitasin korra ette, kuidas viimase testi ülesandeid lahendada. Seejärel tegi üks õpilane protsessi läbi.
+
+### 2024-9-25
+
+Tuletasime hulgaoperatsioone meelde alates hulga suurusest kuni tehete järjekorrani lehel https://www.math.cmu.edu/~bkell/21110-2010s/sets.html
+
+### 2024-9-25
+
+Käsitlesime Venni diagramme kuni esimeste erinevusteni samal lehel. Testisime:
