@@ -272,3 +272,7 @@ Näitasin, kuidas viimase testi ülesandeid lahendada ja õpilane lahendas ka. M
 Selgitasin, kuidas sulge kasutada määramaks tehete järjekorda. Tegime uue testi:
 
 Esimese kahe õpiväljundi eelmise korra testi ülesanded lahendasin õpilastele ühe variandina. Õpilane minu abiga tegi seda ka. Seejärel andsin neile järgmise testi sooritada, aga seekord koju, nii et selle järgi saan teada, kes kohal oli.
+
+### 2024-9-25
+
+Näitasin korra ette, kuidas viimase testi ülesandeid lahendada. Seejärel tegi üks õpilane protsessi läbi.
