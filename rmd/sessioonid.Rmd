@@ -330,3 +330,9 @@ Käsitlesime hulgateooria osi: alamhulgad, arvuhulgad, hulga koostis, hulgatehte
 ### 2024-9-26
 
 Käsitlesime hulgateooria osi: Venni diagrammid. Lahendasime https://www.math.cmu.edu/~bkell/21110-2010s/sets.html esimese küsimuse positiivsete paarisarvude hulga kohta. Tegime testi esimese kahe õpiväljundi kohta:
+
+### 2024-9-26
+
+Käsitlesime Venni diagramme. Lahendasime positiivsete paarisarvude ning võrdlusülesanded samast allikast ehk esimesed kaks kokku.
+
+Tegime testi esimese kahe õpiväljundi kohta:
