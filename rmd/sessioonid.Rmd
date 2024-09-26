@@ -270,8 +270,19 @@ Näitasin, kuidas viimase testi ülesandeid lahendada ja õpilane lahendas ka. M
 ### 2024-9-24
 
 Selgitasin, kuidas sulge kasutada määramaks tehete järjekorda. Tegime uue testi:
+Jaroslav Andrejev: 1: 5, 2: 3,
+Maksim Tolmatsjov: 1: 5, 2: 4,
+Serdiuk Mykyta: 1: 2, 2: 5,
+Virko Boitsov: 1: 2, 2: 1,
+Ksenija Ignatjeva: 1: 5, 2: 5,
+Elizaveta Kafitonova: 1: 5, 2: 2.
 
-Esimese kahe õpiväljundi eelmise korra testi ülesanded lahendasin õpilastele ühe variandina. Õpilane minu abiga tegi seda ka. Seejärel andsin neile järgmise testi sooritada, aga seekord koju, nii et selle järgi saan teada, kes kohal oli.
+Esimese kahe õpiväljundi eelmise korra testi ülesanded lahendasin õpilastele ühe variandina. Õpilane minu abiga tegi seda ka. Seejärel andsin neile järgmise testi sooritada, aga seekord koju, nii et selle järgi saan teada, kes kohal oli:
+nikita,
+elizaveta,
+Virko Boitsov: 1: 2, 2: 3,
+Maksim Tolmatsjov: 1: 2, 2: 3,
+Jaroslav Andejv: 1: 4, 2: 3.
 
 ### 2024-9-25
 
@@ -284,3 +295,38 @@ Tuletasime hulgaoperatsioone meelde alates hulga suurusest kuni tehete järjekor
 ### 2024-9-25
 
 Käsitlesime Venni diagramme kuni esimeste erinevusteni samal lehel. Testisime:
+DANIILMATVeeV: 1: 5, 2: 5,
+aRTEMI dUDKIN: 1: 1, 2: 1,
+Bankirov Edgar: 1: 5, 2: 5,
+Evelina Bržezitskaya: 1: 3, 2: 4,
+Ilja Dudkin: 1: 5, 2: 4,
+Danlll Basknlov: 1: 5, 2: 3,
+Alina Võssotskaja: 1: 4, 2: 5,
+Valerija Brjakkkjeva: 1: 5, 2: 5,
+Marja JurNA: 1: 5, 2: 2,
+Sumarok Aleksandra: 1: 4, 2: 3,
+Ivan Fabrichnikov: 1: 5, 2: 5,
+Jegor Barinov: 1: 3, 2: 5.
+
+### 2024-9-25
+
+Näitasin eelmise testi ülesande ühe võimaliku lahenduse. Üks õpilane tegi tahvlile oma lahenduse. Testisime:
+Leila Mihailova: 1: 4, 2: 3,
+Daniil Koškirov: 1: 5, 2: 5,
+Veera Kirillova: 1: 5, 2: 5,
+Jegor Jelugemov: 1: 4, 2: 5,
+Kristina Golubeva: 1: 5, 2: 3,
+Alisa Mazanova: 1: 5, 2: 5,
+Lera Fedorova: 1: 4, 2: 3,
+Anna Simonova: 1: 3, 2: 1,
+Sonja Seliverstova: 1: 5, 2: 3,
+Vladislava Massalova: 1: 5, 2: 5,
+Alesja Jakovleva: 1: 5, 2: 5.
+
+### 2024-9-26
+
+Käsitlesime hulgateooria osi: alamhulgad, arvuhulgad, hulga koostis, hulgatehted, täiendhulk.
+
+### 2024-9-26
+
+Käsitlesime hulgateooria osi: Venni diagrammid. Lahendasime https://www.math.cmu.edu/~bkell/21110-2010s/sets.html esimese küsimuse positiivsete paarisarvude hulga kohta. Tegime testi esimese kahe õpiväljundi kohta:

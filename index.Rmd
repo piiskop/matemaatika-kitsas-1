@@ -230,3 +230,5 @@ render_color <- function(color, text) {
 # Sissejuhatus {-}
 
 Naiselikud meesõpilased.
+
+Kui õpilasel on ahhaa-efekt, siis õpetajal võib olla juhhuu-efekt või ohhoo-efekt.
