@@ -698,7 +698,7 @@ c( # 1
     0, # 8. Botšenkov, Kirill
     NA, # 9. Botšenkova, Ksenia
     NA, # 10. Chepkasova, Alina
-    NA, # 11. Curnic-Saveljev, Dorin
+    0, # 11. Curnic-Saveljev, Dorin
     0, # 12. Daniil, Kaškirov
     0, # 13. Dementjeva, Anastasija
     NA, # 14. Dmitriiev, Artem
@@ -721,7 +721,7 @@ c( # 1
     NA, # 31. Morozov, Aleksandr
     NA, # 32. Orlova, Arina
     NA, # 33. Saffran, Anna
-    NA, # 34. Seliverstova, Sonja
+    1, # 34. Seliverstova, Sonja
     NA, # 35. Senyukova, Adelina
     1, # 36. Simanova, Anna
     NA, # 37. Sirotina, Nelli
@@ -729,7 +729,7 @@ c( # 1
     NA, # 39. Smirnov, Egor
     NA, # 40. Stulov, Ivan
     0, # 41. Titov, Nikita
-    NA, # 42. Uljana, Maslova
+    0, # 42. Uljana, Maslova
     NA, # 43. Vesselova, Ksenija
     NA, # 44. Vladislav, Gavrilenko
     NA, # 45. Vladislav, Moissejev
@@ -748,12 +748,12 @@ c( # 2
     0, # 8. Botšenkov, Kirill
     0, # 9. Botšenkova, Ksenia
     NA, # 10. Chepkasova, Alina
-    NA, # 11. Curnic-Saveljev, Dorin
+    0, # 11. Curnic-Saveljev, Dorin
     0, # 12. Daniil, Kaškirov
     0, # 13. Dementjeva, Anastasija
     NA, # 14. Dmitriiev, Artem
     NA, # 15. Evgeniy, Petrov
-    NA, # 16. Fedorova, Valeria
+    0, # 16. Fedorova, Valeria
     0, # 17. Fjodorova, Margarita
     NA, # 18. Ilja, Aleksejev
     0, # 19. Ivan, Mištšenko
@@ -764,14 +764,14 @@ c( # 2
     NA, # 24. Katajeva, Jana
     NA, # 25. Kirillova, Veera
     NA, # 26. Kossatševa, Irina
-    NA, # 27. Kristina, Golubeva
+    0, # 27. Kristina, Golubeva
     0, # 28. Massalova, Vladislava
     0, # 29. Mazanova, Alisa
     NA, # 30. Mihailova, Leila
     NA, # 31. Morozov, Aleksandr
     NA, # 32. Orlova, Arina
     NA, # 33. Saffran, Anna
-    NA, # 34. Seliverstova, Sonja
+    1, # 34. Seliverstova, Sonja
     NA, # 35. Senyukova, Adelina
     0, # 36. Simanova, Anna
     NA, # 37. Sirotina, Nelli
@@ -779,7 +779,7 @@ c( # 2
     NA, # 39. Smirnov, Egor
     NA, # 40. Stulov, Ivan
     0, # 41. Titov, Nikita
-    NA, # 42. Uljana, Maslova
+    0, # 42. Uljana, Maslova
     NA, # 43. Vesselova, Ksenija
     NA, # 44. Vladislav, Gavrilenko
     NA, # 45. Vladislav, Moissejev
@@ -795,18 +795,18 @@ c( # 3
     NA, # 5. Artjom, Nikitin
     NA, # 6. Barabanova, Viktoriia
     NA, # 7. Bodõljov, Vjatšeslav
-    NA, # 8. Botšenkov, Kirill
+    0, # 8. Botšenkov, Kirill
     0, # 9. Botšenkova, Ksenia
     NA, # 10. Chepkasova, Alina
-    NA, # 11. Curnic-Saveljev, Dorin
+    0, # 11. Curnic-Saveljev, Dorin
     NA, # 12. Daniil, Kaškirov
     NA, # 13. Dementjeva, Anastasija
     NA, # 14. Dmitriiev, Artem
     NA, # 15. Evgeniy, Petrov
-    NA, # 16. Fedorova, Valeria
+    0, # 16. Fedorova, Valeria
     NA, # 17. Fjodorova, Margarita
     NA, # 18. Ilja, Aleksejev
-    NA, # 19. Ivan, Mištšenko
+    0, # 19. Ivan, Mištšenko
     NA, # 20. Jekaterina, Antipova
     NA, # 21. Jelufimov, Jegor
     NA, # 22. Jurna, Kristina
@@ -814,22 +814,22 @@ c( # 3
     NA, # 24. Katajeva, Jana
     NA, # 25. Kirillova, Veera
     NA, # 26. Kossatševa, Irina
-    NA, # 27. Kristina, Golubeva
-    NA, # 28. Massalova, Vladislava
-    NA, # 29. Mazanova, Alisa
+    0, # 27. Kristina, Golubeva
+    0, # 28. Massalova, Vladislava
+    0, # 29. Mazanova, Alisa
     NA, # 30. Mihailova, Leila
     NA, # 31. Morozov, Aleksandr
     NA, # 32. Orlova, Arina
-    NA, # 33. Saffran, Anna
-    NA, # 34. Seliverstova, Sonja
+    0, # 33. Saffran, Anna
+    1, # 34. Seliverstova, Sonja
     NA, # 35. Senyukova, Adelina
-    NA, # 36. Simanova, Anna
+    1, # 36. Simanova, Anna
     NA, # 37. Sirotina, Nelli
     0, # 38. Skantseva, Sofia
     NA, # 39. Smirnov, Egor
     NA, # 40. Stulov, Ivan
     NA, # 41. Titov, Nikita
-    NA, # 42. Uljana, Maslova
+    0, # 42. Uljana, Maslova
     NA, # 43. Vesselova, Ksenija
     NA, # 44. Vladislav, Gavrilenko
     NA, # 45. Vladislav, Moissejev
@@ -845,18 +845,18 @@ c( # 4
     NA, # 5. Artjom, Nikitin
     NA, # 6. Barabanova, Viktoriia
     NA, # 7. Bodõljov, Vjatšeslav
-    NA, # 8. Botšenkov, Kirill
+    1, # 8. Botšenkov, Kirill
     NA, # 9. Botšenkova, Ksenia
     NA, # 10. Chepkasova, Alina
-    NA, # 11. Curnic-Saveljev, Dorin
-    NA, # 12. Daniil, Kaškirov
+    1, # 11. Curnic-Saveljev, Dorin
+    1, # 12. Daniil, Kaškirov
     NA, # 13. Dementjeva, Anastasija
     NA, # 14. Dmitriiev, Artem
     NA, # 15. Evgeniy, Petrov
-    NA, # 16. Fedorova, Valeria
+    1, # 16. Fedorova, Valeria
     NA, # 17. Fjodorova, Margarita
     NA, # 18. Ilja, Aleksejev
-    NA, # 19. Ivan, Mištšenko
+    1, # 19. Ivan, Mištšenko
     NA, # 20. Jekaterina, Antipova
     NA, # 21. Jelufimov, Jegor
     NA, # 22. Jurna, Kristina
@@ -864,22 +864,22 @@ c( # 4
     NA, # 24. Katajeva, Jana
     NA, # 25. Kirillova, Veera
     NA, # 26. Kossatševa, Irina
-    NA, # 27. Kristina, Golubeva
-    NA, # 28. Massalova, Vladislava
-    NA, # 29. Mazanova, Alisa
+    1, # 27. Kristina, Golubeva
+    0, # 28. Massalova, Vladislava
+    0, # 29. Mazanova, Alisa
     NA, # 30. Mihailova, Leila
     NA, # 31. Morozov, Aleksandr
     NA, # 32. Orlova, Arina
-    NA, # 33. Saffran, Anna
-    NA, # 34. Seliverstova, Sonja
+    0, # 33. Saffran, Anna
+    1, # 34. Seliverstova, Sonja
     NA, # 35. Senyukova, Adelina
-    NA, # 36. Simanova, Anna
+    1, # 36. Simanova, Anna
     NA, # 37. Sirotina, Nelli
     NA, # 38. Skantseva, Sofia
     NA, # 39. Smirnov, Egor
     NA, # 40. Stulov, Ivan
     NA, # 41. Titov, Nikita
-    NA, # 42. Uljana, Maslova
+    1, # 42. Uljana, Maslova
     NA, # 43. Vesselova, Ksenija
     NA, # 44. Vladislav, Gavrilenko
     NA, # 45. Vladislav, Moissejev
@@ -895,18 +895,18 @@ c( # 5
     NA, # 5. Artjom, Nikitin
     NA, # 6. Barabanova, Viktoriia
     NA, # 7. Bodõljov, Vjatšeslav
-    NA, # 8. Botšenkov, Kirill
+    1, # 8. Botšenkov, Kirill
     NA, # 9. Botšenkova, Ksenia
     NA, # 10. Chepkasova, Alina
-    NA, # 11. Curnic-Saveljev, Dorin
-    NA, # 12. Daniil, Kaškirov
+    0, # 11. Curnic-Saveljev, Dorin
+    5, # 12. Daniil, Kaškirov
     NA, # 13. Dementjeva, Anastasija
     NA, # 14. Dmitriiev, Artem
     NA, # 15. Evgeniy, Petrov
-    NA, # 16. Fedorova, Valeria
+    1, # 16. Fedorova, Valeria
     NA, # 17. Fjodorova, Margarita
     NA, # 18. Ilja, Aleksejev
-    NA, # 19. Ivan, Mištšenko
+    5, # 19. Ivan, Mištšenko
     NA, # 20. Jekaterina, Antipova
     NA, # 21. Jelufimov, Jegor
     NA, # 22. Jurna, Kristina
@@ -914,22 +914,22 @@ c( # 5
     NA, # 24. Katajeva, Jana
     NA, # 25. Kirillova, Veera
     NA, # 26. Kossatševa, Irina
-    NA, # 27. Kristina, Golubeva
-    NA, # 28. Massalova, Vladislava
-    NA, # 29. Mazanova, Alisa
+    1, # 27. Kristina, Golubeva
+    1, # 28. Massalova, Vladislava
+    1, # 29. Mazanova, Alisa
     NA, # 30. Mihailova, Leila
     NA, # 31. Morozov, Aleksandr
     NA, # 32. Orlova, Arina
-    NA, # 33. Saffran, Anna
-    NA, # 34. Seliverstova, Sonja
+    1, # 33. Saffran, Anna
+    0, # 34. Seliverstova, Sonja
     NA, # 35. Senyukova, Adelina
-    NA, # 36. Simanova, Anna
+    0, # 36. Simanova, Anna
     NA, # 37. Sirotina, Nelli
     NA, # 38. Skantseva, Sofia
     NA, # 39. Smirnov, Egor
     NA, # 40. Stulov, Ivan
     NA, # 41. Titov, Nikita
-    NA, # 42. Uljana, Maslova
+    1, # 42. Uljana, Maslova
     NA, # 43. Vesselova, Ksenija
     NA, # 44. Vladislav, Gavrilenko
     NA, # 45. Vladislav, Moissejev
@@ -945,18 +945,18 @@ c( # 6
     NA, # 5. Artjom, Nikitin
     NA, # 6. Barabanova, Viktoriia
     NA, # 7. Bodõljov, Vjatšeslav
-    NA, # 8. Botšenkov, Kirill
+    1, # 8. Botšenkov, Kirill
     NA, # 9. Botšenkova, Ksenia
     NA, # 10. Chepkasova, Alina
-    NA, # 11. Curnic-Saveljev, Dorin
-    NA, # 12. Daniil, Kaškirov
+    0, # 11. Curnic-Saveljev, Dorin
+    0, # 12. Daniil, Kaškirov
     NA, # 13. Dementjeva, Anastasija
     NA, # 14. Dmitriiev, Artem
     NA, # 15. Evgeniy, Petrov
-    NA, # 16. Fedorova, Valeria
+    1, # 16. Fedorova, Valeria
     NA, # 17. Fjodorova, Margarita
     NA, # 18. Ilja, Aleksejev
-    NA, # 19. Ivan, Mištšenko
+    1, # 19. Ivan, Mištšenko
     NA, # 20. Jekaterina, Antipova
     NA, # 21. Jelufimov, Jegor
     NA, # 22. Jurna, Kristina
@@ -964,22 +964,22 @@ c( # 6
     NA, # 24. Katajeva, Jana
     NA, # 25. Kirillova, Veera
     NA, # 26. Kossatševa, Irina
-    NA, # 27. Kristina, Golubeva
-    NA, # 28. Massalova, Vladislava
-    NA, # 29. Mazanova, Alisa
+    1, # 27. Kristina, Golubeva
+    0, # 28. Massalova, Vladislava
+    0, # 29. Mazanova, Alisa
     NA, # 30. Mihailova, Leila
     NA, # 31. Morozov, Aleksandr
     NA, # 32. Orlova, Arina
-    NA, # 33. Saffran, Anna
-    NA, # 34. Seliverstova, Sonja
+    0, # 33. Saffran, Anna
+    1, # 34. Seliverstova, Sonja
     NA, # 35. Senyukova, Adelina
-    NA, # 36. Simanova, Anna
+    1, # 36. Simanova, Anna
     NA, # 37. Sirotina, Nelli
     NA, # 38. Skantseva, Sofia
     NA, # 39. Smirnov, Egor
     NA, # 40. Stulov, Ivan
     NA, # 41. Titov, Nikita
-    NA, # 42. Uljana, Maslova
+    0, # 42. Uljana, Maslova
     NA, # 43. Vesselova, Ksenija
     NA, # 44. Vladislav, Gavrilenko
     NA, # 45. Vladislav, Moissejev
@@ -995,18 +995,18 @@ c( # 7
     NA, # 5. Artjom, Nikitin
     NA, # 6. Barabanova, Viktoriia
     NA, # 7. Bodõljov, Vjatšeslav
-    NA, # 8. Botšenkov, Kirill
+    7, # 8. Botšenkov, Kirill
     NA, # 9. Botšenkova, Ksenia
     NA, # 10. Chepkasova, Alina
-    NA, # 11. Curnic-Saveljev, Dorin
-    NA, # 12. Daniil, Kaškirov
+    0, # 11. Curnic-Saveljev, Dorin
+    0, # 12. Daniil, Kaškirov
     NA, # 13. Dementjeva, Anastasija
     NA, # 14. Dmitriiev, Artem
     NA, # 15. Evgeniy, Petrov
-    NA, # 16. Fedorova, Valeria
+    1, # 16. Fedorova, Valeria
     NA, # 17. Fjodorova, Margarita
     NA, # 18. Ilja, Aleksejev
-    NA, # 19. Ivan, Mištšenko
+    1, # 19. Ivan, Mištšenko
     NA, # 20. Jekaterina, Antipova
     NA, # 21. Jelufimov, Jegor
     NA, # 22. Jurna, Kristina
@@ -1014,22 +1014,22 @@ c( # 7
     NA, # 24. Katajeva, Jana
     NA, # 25. Kirillova, Veera
     NA, # 26. Kossatševa, Irina
-    NA, # 27. Kristina, Golubeva
+    1, # 27. Kristina, Golubeva
     NA, # 28. Massalova, Vladislava
-    NA, # 29. Mazanova, Alisa
+    0, # 29. Mazanova, Alisa
     NA, # 30. Mihailova, Leila
     NA, # 31. Morozov, Aleksandr
     NA, # 32. Orlova, Arina
-    NA, # 33. Saffran, Anna
-    NA, # 34. Seliverstova, Sonja
+    0, # 33. Saffran, Anna
+    1, # 34. Seliverstova, Sonja
     NA, # 35. Senyukova, Adelina
-    NA, # 36. Simanova, Anna
+    1, # 36. Simanova, Anna
     NA, # 37. Sirotina, Nelli
     NA, # 38. Skantseva, Sofia
     NA, # 39. Smirnov, Egor
     NA, # 40. Stulov, Ivan
     NA, # 41. Titov, Nikita
-    NA, # 42. Uljana, Maslova
+    0, # 42. Uljana, Maslova
     NA, # 43. Vesselova, Ksenija
     NA, # 44. Vladislav, Gavrilenko
     NA, # 45. Vladislav, Moissejev
