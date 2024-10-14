@@ -560,7 +560,7 @@ c( # 7
   NA, # 16. Serdiuk, Mykyta
   NA, # 17. Zverev, Ruslan
   NA, # 18. Timofejev, Daniil
-  NA, # 19. Tolmatsjov, Maksim
+  1, # 19. Tolmatsjov, Maksim
   NA # 20. Tomilina, Marina
   ),
 c( # 8
