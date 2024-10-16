@@ -395,6 +395,491 @@ Tegime testi esimese kahe õpiväljundi kohta:
 
 ## Klassid
 
+```{r label="classes-10a", echo=FALSE}
+
+classes <- c(
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9"
+)
+
+classes_10a_grades <- data.frame(
+  c( # 1
+    NA, # 1. Abdukarimova, Alisa",
+    0, # 2. Aleksey, Bagaev",
+    0, # 3. Anna, Cherenkova",
+    0, # 4. Antonen, Svetlana",
+    NA, # 5. Antonina, Bodõljova",
+    NA, # 6. Artjom, Murašov",
+    0, # 7. Baikov, Albert",
+    0, # 8. Bankirov, Edgar",
+    NA, # 9. Baskirov, Daniil",
+    NA, # 10. Brjakkijeva, Valerija",
+    NA, # 11. Brzezitskaja, Evelina",
+    NA, # 12. Danilova, Emilia",
+    0, # 13. Danilova, Sofja",
+    NA, # 14. Dmitri, Gavrilin",
+    0, # 15. Dudkin, Artemi",
+    0, # 16. Dudkin, Ilja",
+    0, # 17. Fabritsnikov, Ivan",
+    NA, # 18. Fedjushina, Nastja",
+    NA, # 19. Ilja, Petrov",
+    0, # 20. Jegor, Barinov",
+    NA, # 21. Jurna, Marja",
+    1, # 22. Kapralova, Anastassija",
+    NA, # 23. Kolesnikov, Kirill",
+    0, # 24. Krištal, Jegor",
+    NA, # 25. Liliana, Savelieva",
+    NA, # 26. Malinina, Andrea",
+    NA, # 27. Martin, Gussarov",
+    NA, # 28. Mattias, Zbyranets",
+    0, # 29. Matveev, Daniil",
+    NA, # 30. Orekhova, Lilia",
+    0, # 31. Plesnev, Pavel",
+    0, # 32. Rumjantseva, Marija",
+    NA, # 33. Ruslan, Bõstrov",
+    NA, # 34. Sidorkina, Diana",
+    NA, # 35. Sidorov, Georgiy",
+    NA, # 36. Sofiia, Lukicheva",
+    NA, # 37. Solovjova, Veronika",
+    NA, # 38. Soonvald, Uljana",
+    NA, # 39. Sumarok, Aleksandra",
+    1, # 40. Šumilina, Veronika",
+    NA, # 41. Tishin, Alexey",
+    NA, # 42. Udovenko, Maksim",
+    NA # 43. Võssotskaja, Alina
+  ),
+  c( # 2
+    NA, # 1. Abdukarimova, Alisa",
+    0, # 2. Aleksey, Bagaev",
+    0, # 3. Anna, Cherenkova",
+    0, # 4. Antonen, Svetlana",
+    NA, # 5. Antonina, Bodõljova",
+    NA, # 6. Artjom, Murašov",
+    1, # 7. Baikov, Albert",
+    1, # 8. Bankirov, Edgar",
+    NA, # 9. Baskirov, Daniil",
+    NA, # 10. Brjakkijeva, Valerija",
+    NA, # 11. Brzezitskaja, Evelina",
+    NA, # 12. Danilova, Emilia",
+    0, # 13. Danilova, Sofja",
+    NA, # 14. Dmitri, Gavrilin",
+    1, # 15. Dudkin, Artemi",
+    1, # 16. Dudkin, Ilja",
+    0, # 17. Fabritsnikov, Ivan",
+    NA, # 18. Fedjushina, Nastja",
+    NA, # 19. Ilja, Petrov",
+    1, # 20. Jegor, Barinov",
+    NA, # 21. Jurna, Marja",
+    1, # 22. Kapralova, Anastassija",
+    NA, # 23. Kolesnikov, Kirill",
+    0, # 24. Krištal, Jegor",
+    0, # 25. Liliana, Savelieva",
+    NA, # 26. Malinina, Andrea",
+    NA, # 27. Martin, Gussarov",
+    NA, # 28. Mattias, Zbyranets",
+    0, # 29. Matveev, Daniil",
+    NA, # 30. Orekhova, Lilia",
+    0, # 31. Plesnev, Pavel",
+    0, # 32. Rumjantseva, Marija",
+    NA, # 33. Ruslan, Bõstrov",
+    NA, # 34. Sidorkina, Diana",
+    NA, # 35. Sidorov, Georgiy",
+    NA, # 36. Sofiia, Lukicheva",
+    NA, # 37. Solovjova, Veronika",
+    NA, # 38. Soonvald, Uljana",
+    NA, # 39. Sumarok, Aleksandra",
+    1, # 40. Šumilina, Veronika",
+    NA, # 41. Tishin, Alexey",
+    NA, # 42. Udovenko, Maksim",
+    NA # 43. Võssotskaja, Alina
+  ),
+  c( # 3
+    NA, # 1. Abdukarimova, Alisa",
+    1, # 2. Aleksey, Bagaev",
+    1, # 3. Anna, Cherenkova",
+    1, # 4. Antonen, Svetlana",
+    NA, # 5. Antonina, Bodõljova",
+    NA, # 6. Artjom, Murašov",
+    1, # 7. Baikov, Albert",
+    0, # 8. Bankirov, Edgar",
+    NA, # 9. Baskirov, Daniil",
+    NA, # 10. Brjakkijeva, Valerija",
+    NA, # 11. Brzezitskaja, Evelina",
+    NA, # 12. Danilova, Emilia",
+    1, # 13. Danilova, Sofja",
+    NA, # 14. Dmitri, Gavrilin",
+    1, # 15. Dudkin, Artemi",
+    1, # 16. Dudkin, Ilja",
+    1, # 17. Fabritsnikov, Ivan",
+    NA, # 18. Fedjushina, Nastja",
+    NA, # 19. Ilja, Petrov",
+    1, # 20. Jegor, Barinov",
+    NA, # 21. Jurna, Marja",
+    1, # 22. Kapralova, Anastassija",
+    NA, # 23. Kolesnikov, Kirill",
+    1, # 24. Krištal, Jegor",
+    NA, # 25. Liliana, Savelieva",
+    NA, # 26. Malinina, Andrea",
+    NA, # 27. Martin, Gussarov",
+    NA, # 28. Mattias, Zbyranets",
+    0, # 29. Matveev, Daniil",
+    1, # 30. Orekhova, Lilia",
+    1, # 31. Plesnev, Pavel",
+    3, # 32. Rumjantseva, Marija",
+    NA, # 33. Ruslan, Bõstrov",
+    NA, # 34. Sidorkina, Diana",
+    NA, # 35. Sidorov, Georgiy",
+    NA, # 36. Sofiia, Lukicheva",
+    NA, # 37. Solovjova, Veronika",
+    NA, # 38. Soonvald, Uljana",
+    NA, # 39. Sumarok, Aleksandra",
+    1, # 40. Šumilina, Veronika",
+    NA, # 41. Tishin, Alexey",
+    NA, # 42. Udovenko, Maksim",
+    NA # 43. Võssotskaja, Alina
+  ),
+  c( # 4
+    NA, # 1. Abdukarimova, Alisa",
+    NA, # 2. Aleksey, Bagaev",
+    NA, # 3. Anna, Cherenkova",
+    1, # 4. Antonen, Svetlana",
+    NA, # 5. Antonina, Bodõljova",
+    NA, # 6. Artjom, Murašov",
+    1, # 7. Baikov, Albert",
+    1, # 8. Bankirov, Edgar",
+    NA, # 9. Baskirov, Daniil",
+    NA, # 10. Brjakkijeva, Valerija",
+    NA, # 11. Brzezitskaja, Evelina",
+    NA, # 12. Danilova, Emilia",
+    1, # 13. Danilova, Sofja",
+    NA, # 14. Dmitri, Gavrilin",
+    1, # 15. Dudkin, Artemi",
+    0, # 16. Dudkin, Ilja",
+    1, # 17. Fabritsnikov, Ivan",
+    NA, # 18. Fedjushina, Nastja",
+    NA, # 19. Ilja, Petrov",
+    0, # 20. Jegor, Barinov",
+    NA, # 21. Jurna, Marja",
+    1, # 22. Kapralova, Anastassija",
+    NA, # 23. Kolesnikov, Kirill",
+    1, # 24. Krištal, Jegor",
+    NA, # 25. Liliana, Savelieva",
+    NA, # 26. Malinina, Andrea",
+    NA, # 27. Martin, Gussarov",
+    NA, # 28. Mattias, Zbyranets",
+    1, # 29. Matveev, Daniil",
+    NA, # 30. Orekhova, Lilia",
+    1, # 31. Plesnev, Pavel",
+    1, # 32. Rumjantseva, Marija",
+    NA, # 33. Ruslan, Bõstrov",
+    NA, # 34. Sidorkina, Diana",
+    NA, # 35. Sidorov, Georgiy",
+    NA, # 36. Sofiia, Lukicheva",
+    NA, # 37. Solovjova, Veronika",
+    NA, # 38. Soonvald, Uljana",
+    NA, # 39. Sumarok, Aleksandra",
+    1, # 40. Šumilina, Veronika",
+    NA, # 41. Tishin, Alexey",
+    NA, # 42. Udovenko, Maksim",
+    NA # 43. Võssotskaja, Alina
+  ),
+  c( # 5
+    1, # 1. Abdukarimova, Alisa",
+    NA, # 2. Aleksey, Bagaev",
+    NA, # 3. Anna, Cherenkova",
+    1, # 4. Antonen, Svetlana",
+    NA, # 5. Antonina, Bodõljova",
+    NA, # 6. Artjom, Murašov",
+    1, # 7. Baikov, Albert",
+    1, # 8. Bankirov, Edgar",
+    NA, # 9. Baskirov, Daniil",
+    NA, # 10. Brjakkijeva, Valerija",
+    NA, # 11. Brzezitskaja, Evelina",
+    NA, # 12. Danilova, Emilia",
+    1, # 13. Danilova, Sofja",
+    NA, # 14. Dmitri, Gavrilin",
+    1, # 15. Dudkin, Artemi",
+    1, # 16. Dudkin, Ilja",
+    1, # 17. Fabritsnikov, Ivan",
+    NA, # 18. Fedjushina, Nastja",
+    NA, # 19. Ilja, Petrov",
+    1, # 20. Jegor, Barinov",
+    NA, # 21. Jurna, Marja",
+    1, # 22. Kapralova, Anastassija",
+    NA, # 23. Kolesnikov, Kirill",
+    1, # 24. Krištal, Jegor",
+    NA, # 25. Liliana, Savelieva",
+    NA, # 26. Malinina, Andrea",
+    NA, # 27. Martin, Gussarov",
+    NA, # 28. Mattias, Zbyranets",
+    1, # 29. Matveev, Daniil",
+    1, # 30. Orekhova, Lilia",
+    1, # 31. Plesnev, Pavel",
+    1, # 32. Rumjantseva, Marija",
+    NA, # 33. Ruslan, Bõstrov",
+    NA, # 34. Sidorkina, Diana",
+    NA, # 35. Sidorov, Georgiy",
+    NA, # 36. Sofiia, Lukicheva",
+    NA, # 37. Solovjova, Veronika",
+    NA, # 38. Soonvald, Uljana",
+    NA, # 39. Sumarok, Aleksandra",
+    1, # 40. Šumilina, Veronika",
+    NA, # 41. Tishin, Alexey",
+    NA, # 42. Udovenko, Maksim",
+    NA # 43. Võssotskaja, Alina
+  ),
+  c( # 6
+    NA, # 1. Abdukarimova, Alisa",
+    NA, # 2. Aleksey, Bagaev",
+    NA, # 3. Anna, Cherenkova",
+    0, # 4. Antonen, Svetlana",
+    NA, # 5. Antonina, Bodõljova",
+    NA, # 6. Artjom, Murašov",
+    1, # 7. Baikov, Albert",
+    0, # 8. Bankirov, Edgar",
+    NA, # 9. Baskirov, Daniil",
+    NA, # 10. Brjakkijeva, Valerija",
+    NA, # 11. Brzezitskaja, Evelina",
+    NA, # 12. Danilova, Emilia",
+    0, # 13. Danilova, Sofja",
+    NA, # 14. Dmitri, Gavrilin",
+    1, # 15. Dudkin, Artemi",
+    1, # 16. Dudkin, Ilja",
+    NA, # 17. Fabritsnikov, Ivan",
+    NA, # 18. Fedjushina, Nastja",
+    NA, # 19. Ilja, Petrov",
+    0, # 20. Jegor, Barinov",
+    NA, # 21. Jurna, Marja",
+    0, # 22. Kapralova, Anastassija",
+    NA, # 23. Kolesnikov, Kirill",
+    NA, # 24. Krištal, Jegor",
+    NA, # 25. Liliana, Savelieva",
+    NA, # 26. Malinina, Andrea",
+    NA, # 27. Martin, Gussarov",
+    NA, # 28. Mattias, Zbyranets",
+    0, # 29. Matveev, Daniil",
+    NA, # 30. Orekhova, Lilia",
+    0, # 31. Plesnev, Pavel",
+    0, # 32. Rumjantseva, Marija",
+    NA, # 33. Ruslan, Bõstrov",
+    NA, # 34. Sidorkina, Diana",
+    NA, # 35. Sidorov, Georgiy",
+    NA, # 36. Sofiia, Lukicheva",
+    NA, # 37. Solovjova, Veronika",
+    NA, # 38. Soonvald, Uljana",
+    NA, # 39. Sumarok, Aleksandra",
+    1, # 40. Šumilina, Veronika",
+    NA, # 41. Tishin, Alexey",
+    NA, # 42. Udovenko, Maksim",
+    NA # 43. Võssotskaja, Alina
+  ),
+  c( # 7
+    NA, # 1. Abdukarimova, Alisa",
+    NA, # 2. Aleksey, Bagaev",
+    NA, # 3. Anna, Cherenkova",
+    NA, # 4. Antonen, Svetlana",
+    NA, # 5. Antonina, Bodõljova",
+    NA, # 6. Artjom, Murašov",
+    NA, # 7. Baikov, Albert",
+    NA, # 8. Bankirov, Edgar",
+    NA, # 9. Baskirov, Daniil",
+    NA, # 10. Brjakkijeva, Valerija",
+    NA, # 11. Brzezitskaja, Evelina",
+    NA, # 12. Danilova, Emilia",
+    NA, # 13. Danilova, Sofja",
+    NA, # 14. Dmitri, Gavrilin",
+    NA, # 15. Dudkin, Artemi",
+    NA, # 16. Dudkin, Ilja",
+    NA, # 17. Fabritsnikov, Ivan",
+    NA, # 18. Fedjushina, Nastja",
+    NA, # 19. Ilja, Petrov",
+    NA, # 20. Jegor, Barinov",
+    NA, # 21. Jurna, Marja",
+    NA, # 22. Kapralova, Anastassija",
+    NA, # 23. Kolesnikov, Kirill",
+    NA, # 24. Krištal, Jegor",
+    NA, # 25. Liliana, Savelieva",
+    NA, # 26. Malinina, Andrea",
+    NA, # 27. Martin, Gussarov",
+    NA, # 28. Mattias, Zbyranets",
+    NA, # 29. Matveev, Daniil",
+    NA, # 30. Orekhova, Lilia",
+    NA, # 31. Plesnev, Pavel",
+    NA, # 32. Rumjantseva, Marija",
+    NA, # 33. Ruslan, Bõstrov",
+    NA, # 34. Sidorkina, Diana",
+    NA, # 35. Sidorov, Georgiy",
+    NA, # 36. Sofiia, Lukicheva",
+    NA, # 37. Solovjova, Veronika",
+    NA, # 38. Soonvald, Uljana",
+    NA, # 39. Sumarok, Aleksandra",
+    NA, # 40. Šumilina, Veronika",
+    NA, # 41. Tishin, Alexey",
+    NA, # 42. Udovenko, Maksim",
+    NA # 43. Võssotskaja, Alina
+  ),
+  c( # 8
+    NA, # 1. Abdukarimova, Alisa",
+    NA, # 2. Aleksey, Bagaev",
+    NA, # 3. Anna, Cherenkova",
+    NA, # 4. Antonen, Svetlana",
+    NA, # 5. Antonina, Bodõljova",
+    NA, # 6. Artjom, Murašov",
+    NA, # 7. Baikov, Albert",
+    NA, # 8. Bankirov, Edgar",
+    NA, # 9. Baskirov, Daniil",
+    NA, # 10. Brjakkijeva, Valerija",
+    NA, # 11. Brzezitskaja, Evelina",
+    NA, # 12. Danilova, Emilia",
+    NA, # 13. Danilova, Sofja",
+    NA, # 14. Dmitri, Gavrilin",
+    NA, # 15. Dudkin, Artemi",
+    NA, # 16. Dudkin, Ilja",
+    NA, # 17. Fabritsnikov, Ivan",
+    NA, # 18. Fedjushina, Nastja",
+    NA, # 19. Ilja, Petrov",
+    NA, # 20. Jegor, Barinov",
+    NA, # 21. Jurna, Marja",
+    NA, # 22. Kapralova, Anastassija",
+    NA, # 23. Kolesnikov, Kirill",
+    NA, # 24. Krištal, Jegor",
+    NA, # 25. Liliana, Savelieva",
+    NA, # 26. Malinina, Andrea",
+    NA, # 27. Martin, Gussarov",
+    NA, # 28. Mattias, Zbyranets",
+    NA, # 29. Matveev, Daniil",
+    NA, # 30. Orekhova, Lilia",
+    NA, # 31. Plesnev, Pavel",
+    NA, # 32. Rumjantseva, Marija",
+    NA, # 33. Ruslan, Bõstrov",
+    NA, # 34. Sidorkina, Diana",
+    NA, # 35. Sidorov, Georgiy",
+    NA, # 36. Sofiia, Lukicheva",
+    NA, # 37. Solovjova, Veronika",
+    NA, # 38. Soonvald, Uljana",
+    NA, # 39. Sumarok, Aleksandra",
+    NA, # 40. Šumilina, Veronika",
+    NA, # 41. Tishin, Alexey",
+    NA, # 42. Udovenko, Maksim",
+    NA # 43. Võssotskaja, Alina
+  ),
+  c( # 9
+    NA, # 1. Abdukarimova, Alisa",
+    NA, # 2. Aleksey, Bagaev",
+    NA, # 3. Anna, Cherenkova",
+    NA, # 4. Antonen, Svetlana",
+    NA, # 5. Antonina, Bodõljova",
+    NA, # 6. Artjom, Murašov",
+    NA, # 7. Baikov, Albert",
+    NA, # 8. Bankirov, Edgar",
+    NA, # 9. Baskirov, Daniil",
+    NA, # 10. Brjakkijeva, Valerija",
+    NA, # 11. Brzezitskaja, Evelina",
+    NA, # 12. Danilova, Emilia",
+    NA, # 13. Danilova, Sofja",
+    NA, # 14. Dmitri, Gavrilin",
+    NA, # 15. Dudkin, Artemi",
+    NA, # 16. Dudkin, Ilja",
+    NA, # 17. Fabritsnikov, Ivan",
+    NA, # 18. Fedjushina, Nastja",
+    NA, # 19. Ilja, Petrov",
+    NA, # 20. Jegor, Barinov",
+    NA, # 21. Jurna, Marja",
+    NA, # 22. Kapralova, Anastassija",
+    NA, # 23. Kolesnikov, Kirill",
+    NA, # 24. Krištal, Jegor",
+    NA, # 25. Liliana, Savelieva",
+    NA, # 26. Malinina, Andrea",
+    NA, # 27. Martin, Gussarov",
+    NA, # 28. Mattias, Zbyranets",
+    NA, # 29. Matveev, Daniil",
+    NA, # 30. Orekhova, Lilia",
+    NA, # 31. Plesnev, Pavel",
+    NA, # 32. Rumjantseva, Marija",
+    NA, # 33. Ruslan, Bõstrov",
+    NA, # 34. Sidorkina, Diana",
+    NA, # 35. Sidorov, Georgiy",
+    NA, # 36. Sofiia, Lukicheva",
+    NA, # 37. Solovjova, Veronika",
+    NA, # 38. Soonvald, Uljana",
+    NA, # 39. Sumarok, Aleksandra",
+    NA, # 40. Šumilina, Veronika",
+    NA, # 41. Tishin, Alexey",
+    NA, # 42. Udovenko, Maksim",
+    NA # 43. Võssotskaja, Alina
+  )
+)
+
+data_frame <- classes_10a_grades[1]
+for (class_identifier in 2:9) {
+  data_frame <- cbind(data_frame, classes_10a_grades[class_identifier])
+}
+colnames(data_frame) <- classes  
+names_10a <- c(
+  "1. Abdukarimova, Alisa",
+   "2. Aleksey, Bagaev",
+   "3. Anna, Cherenkova",
+   "4. Antonen, Svetlana",
+   "5. Antonina, Bodõljova",
+   "6. Artjom, Murašov",
+   "7. Baikov, Albert",
+   "8. Bankirov, Edgar",
+   "9. Baskirov, Daniil",
+   "10. Brjakkijeva, Valerija",
+   "11. Brzezitskaja, Evelina",
+   "12. Danilova, Emilia",
+   "13. Danilova, Sofja",
+   "14. Dmitri, Gavrilin",
+   "15. Dudkin, Artemi",
+   "16. Dudkin, Ilja",
+   "17. Fabritsnikov, Ivan",
+   "18. Fedjushina, Nastja",
+   "19. Ilja, Petrov",
+   "20. Jegor, Barinov",
+   "21. Jurna, Marja",
+   "22. Kapralova, Anastassija",
+   "23. Kolesnikov, Kirill",
+   "24. Krištal, Jegor",
+   "25. Liliana, Savelieva",
+   "26. Malinina, Andrea",
+   "27. Martin, Gussarov",
+   "28. Mattias, Zbyranets",
+   "29. Matveev, Daniil",
+   "30. Orekhova, Lilia",
+   "31. Plesnev, Pavel",
+   "32. Rumjantseva, Marija",
+   "33. Ruslan, Bõstrov",
+   "34. Sidorkina, Diana",
+   "35. Sidorov, Georgiy",
+   "36. Sofiia, Lukicheva",
+   "37. Solovjova, Veronika",
+   "38. Soonvald, Uljana",
+   "39. Sumarok, Aleksandra",
+   "40. Šumilina, Veronika",
+   "41. Tishin, Alexey",
+   "42. Udovenko, Maksim",
+   "43. Võssotskaja, Alina"
+)
+
+rownames(data_frame) <- names_10a
+table <- print_table(
+  table = data_frame,
+  caption = "*10A* õpilaste läbitud klassid 1-9."
+)
+
+table
+
+```
+
+Viacheslav Denhub oli ka 2024-10-9. Tema oskused: 3, 4, 5
+
 ```{r label="classes-10b", echo=FALSE}
 
 classes <- c(
@@ -650,26 +1135,49 @@ table
 Maria Morozova oli 2024-10-15 kohal mõlemas 10B sessioonis.
 
 ```{r}
-jou = "1. Anna, Ivanova
-2. Artjom, Saharov
-3. Boitsov, Virko
-4. Daniil, Petrauskas
-5. Dmitriy, Vigovskiy
-6. Domožakova, Milana
-7. Ignatjeva, Ksenia
-8. Jaroslav, Andrejev
-9. Juri, Judin
-10. Kapinski, Erik
-11. Kapitonova, Elizaveta
-12. Koroleva, Anastasiya
-13. Korzanova, Nadežda
-14. Martynov, Daniil
-15. Oxana, Puzyrnikova
-16. Serdiuk, Mykyta
-17. Zverev, Ruslan
-18. Timofejev, Daniil
-19. Tolmatsjov, Maksim
-20. Tomilina, Marina"
+jou = "1. Abdukarimova, Alisa
+2. Aleksey, Bagaev
+3. Anna, Cherenkova
+4. Antonen, Svetlana
+5. Antonina, Bodõljova
+6. Artjom, Murašov
+7. Baikov, Albert
+8. Bankirov, Edgar
+9. Baskirov, Daniil
+10. Brjakkijeva, Valerija
+11. Brzezitskaja, Evelina
+12. Danilova, Emilia
+13. Danilova, Sofja
+14. Dmitri, Gavrilin
+15. Dudkin, Artemi
+16. Dudkin, Ilja
+17. Fabritsnikov, Ivan
+18. Fedjushina, Nastja
+19. Ilja, Petrov
+20. Jegor, Barinov
+21. Jurna, Marja
+22. Kapralova, Anastassija
+23. Kolesnikov, Kirill
+24. Krištal, Jegor
+25. Liliana, Savelieva
+26. Malinina, Andrea
+27. Martin, Gussarov
+28. Mattias, Zbyranets
+29. Matveev, Daniil
+30. Orekhova, Lilia
+31. Plesnev, Pavel
+32. Rumjantseva, Marija
+33. Ruslan, Bõstrov
+34. Sidorkina, Diana
+35. Sidorov, Georgiy
+36. Sofiia, Lukicheva
+37. Solovjova, Veronika
+38. Soonvald, Uljana
+39. Sumarok, Aleksandra
+40. Šumilina, Veronika
+41. Tishin, Alexey
+42. Udovenko, Maksim
+43. Võssotskaja, Alina"
  cat(gsub("\n", '",
    "', jou))
 
