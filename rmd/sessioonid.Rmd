@@ -566,14 +566,14 @@ c( # 7
 c( # 8
   NA, # 1. Anna, Ivanova
   NA, # 2. Artjom, Saharov
-  NA, # 3. Boitsov, Virko
+  0, # 3. Boitsov, Virko
   NA, # 4. Daniil, Petrauskas
   NA, # 5. Dmitriy, Vigovskiy
   NA, # 6. Domožakova, Milana
-  NA, # 7. Ignatjeva, Ksenia
+  0, # 7. Ignatjeva, Ksenia
   NA, # 8. Jaroslav, Andrejev
   NA, # 9. Juri, Judin
-  NA, # 10. Kapinski, Erik
+  0, # 10. Kapinski, Erik
   NA, # 11. Kapitonova, Elizaveta
   NA, # 12. Koroleva, Anastasiya
   NA, # 13. Korzanova, Nadežda
@@ -595,7 +595,7 @@ c( # 9
   NA, # 7. Ignatjeva, Ksenia
   NA, # 8. Jaroslav, Andrejev
   NA, # 9. Juri, Judin
-  NA, # 10. Kapinski, Erik
+  0, # 10. Kapinski, Erik
   NA, # 11. Kapitonova, Elizaveta
   NA, # 12. Koroleva, Anastasiya
   NA, # 13. Korzanova, Nadežda
@@ -646,6 +646,9 @@ table <- print_table(
 table
 
 ```
+
+Maria Morozova oli 2024-10-15 kohal mõlemas 10B sessioonis.
+
 ```{r}
 jou = "1. Anna, Ivanova
 2. Artjom, Saharov
